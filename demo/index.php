@@ -27,7 +27,7 @@ $Marker = new Marker("demo");
 <script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
 
 <script>
-    Swal.fire('Any fool can use a computer')
+    Swal.fire('<?php print $Marker->name; ?>')
 </script>
 
 </body>
