@@ -1,6 +1,6 @@
 # Intelj files
-./.idea/
+.idea
 
 # Composer files
-./vendor
-./composer.phar
+vendor
+composer.phar
