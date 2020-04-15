@@ -2,7 +2,7 @@
 
 use flexice\Marker\Marker;
 
-require_once "./vendor";
+require_once "../vendor/autoload.php";
 
 $Marker = new Marker();
 
