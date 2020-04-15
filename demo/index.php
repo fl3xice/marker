@@ -4,7 +4,7 @@ use flexice\Marker\Marker;
 
 require_once "../vendor/autoload.php";
 
-$Marker = new Marker();
+$Marker = new Marker("demo");
 
 ?>
 
